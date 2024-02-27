@@ -1,0 +1,14 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\ConApp.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\ConApp.deps.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\ConApp.runtimeconfig.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\ConApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\ConApp.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfoInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfo.cs
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.csproj.CoreCompileInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\refint\ConApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ConApp.genruntimeconfig.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\obj\Debug\net6.0\ref\ConApp.dll

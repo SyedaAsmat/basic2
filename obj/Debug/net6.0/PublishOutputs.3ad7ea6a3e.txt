@@ -1,0 +1,5 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\publish\ConApp.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\publish\ConApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\publish\ConApp.deps.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\publish\ConApp.runtimeconfig.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\ConApp\ConApp\bin\Debug\net6.0\publish\ConApp.pdb
